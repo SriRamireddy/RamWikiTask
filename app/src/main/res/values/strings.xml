@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RamWikiTask</string>
+    <string name="data">data</string>
+    <string name="link_reference">Link reference :</string>
+    <string name="textview">TextView</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+    <string name="image">image</string>
+</resources>
